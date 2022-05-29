@@ -1,9 +1,9 @@
 @import url('reset.css');
 @import url('global.css');
-@import url('components/_navigator.css');
-@import url('components/_pills.css');
-@import url('components/_link-buttom.css');
-@import url('components/_gallery.css');
+@import url('components/__navigator.css');
+@import url('components/__pills.css');
+@import url('components/__link-buttom.css');
+@import url('components/__gallery.css');
 
 
 .s-wrapper {
